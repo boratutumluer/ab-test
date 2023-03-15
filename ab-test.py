@@ -46,11 +46,9 @@ def group_test_assessment(dataframe, group_name):
             print(f"VERSION - {version} (TEST GROUP)")
 
         dataframe = dataframe[
-            (dataframe["Name"].isin(["FIND", "REQUEST", version])) & (dataframe["Version"] == version)].groupby(
-            "Name").agg({"Click": lambda x: (x.sum() / click) * 100}).reset_index()
+            (dataframe["Name"].isin(["FIND", "REQUEST", version])) & (dataframe["Version"] == version)].groupby("Name")["Click"].sum().reset_index()
         print("#################################")
         return dataframe
-
 
 df_interact = group_test_assessment(df, "INTERACT")
 df_connect = group_test_assessment(df, "CONNECT")
@@ -59,10 +57,10 @@ df_help = group_test_assessment(df, "HELP")
 df_services = group_test_assessment(df, "SERVICES")
 
 df_services.head()
-#        Name    Click
-# 0      FIND 29.45104
-# 1   REQUEST  4.22849
-# 2  SERVICES  3.33828
+#        Name  Click
+# 0      FIND    397
+# 1   REQUEST     57
+# 2  SERVICES     45
 
 
 # Pie visualization of distribution of click in each version --> visualization/pie_charts.png
