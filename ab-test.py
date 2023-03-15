@@ -68,18 +68,24 @@ df_services.head()
 # Pie visualization of distribution of click in each version --> visualization/pie_charts.png
 colors = ["slategray", "gray", "silver"]
 fig, ax = plt.subplots(3, 3, figsize=(10, 10))
+ax[0, 1].set_title("Homepage Click-through Rates - Interact (Control)", pad=32, fontstyle='italic',
+                   fontsize="12").set_fontsize(10)
 ax[0, 1].pie(df_interact["Click"].values, labels=df_interact["Name"].values, autopct='%.1f%%',
              wedgeprops={'edgecolor': "white", 'linewidth': 1}, textprops={'fontsize': 8}, radius=1.6,
              colors=colors, explode=(0, 0.2, 0))
+ax[1, 0].set_title("Click-through Rates - Connect", fontstyle='italic').set_fontsize(10)
 ax[1, 0].pie(df_connect["Click"].values, labels=df_connect["Name"].values, autopct='%.1f%%',
              wedgeprops={'edgecolor': "white", 'linewidth': 1}, textprops={'fontsize': 8}, radius=1,
              colors=colors, explode=(0.2, 0, 0))
+ax[1, 2].set_title("Click-through Rates - Learn", pad=-16, fontstyle='italic').set_fontsize(10)
 ax[1, 2].pie(df_learn["Click"].values, labels=df_learn["Name"].values, autopct='%.1f%%',
              wedgeprops={'edgecolor': "white", 'linewidth': 1}, textprops={'fontsize': 8}, radius=1,
              colors=colors, explode=(0, 0.2, 0))
+ax[2, 0].set_title("Click-through Rates - Help", fontstyle='italic').set_fontsize(10)
 ax[2, 0].pie(df_help["Click"].values, labels=df_help["Name"].values, autopct='%.1f%%',
              wedgeprops={'edgecolor': "white", 'linewidth': 1}, textprops={'fontsize': 8}, radius=1,
              colors=colors, explode=(0, 0.2, 0))
+ax[2, 2].set_title("Click-through Rates - Services", fontstyle='italic').set_fontsize(10)
 ax[2, 2].pie(df_services["Click"].values, labels=df_services["Name"].values, autopct='%.1f%%',
              wedgeprops={'edgecolor': "white", 'linewidth': 1}, textprops={'fontsize': 8}, radius=1,
              colors=colors, explode=(0, 0, 0.2))
