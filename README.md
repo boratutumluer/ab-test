@@ -25,9 +25,8 @@ Here is button that tested:
   <li>SERVICES</li>
 </ul>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/79102317/225558156-02a393d8-1bca-48f1-a381-efa7c5b539d2.png" width="400"/>
-</p>
+<a href="#" onClick="newWindow = window.open('https://user-images.githubusercontent.com/79102317/225558156-02a393d8-1bca-48f1-a381-efa7c5b539d2.png');
+    newWindow.print();">Print Image</a>
 
 <p>
 </p>
