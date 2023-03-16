@@ -19,10 +19,10 @@ University of Montana conducted an examination on the three main buttons on its 
 
 Here is button that tested: 
 <ul>
-  <li align="center"><a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000004.png"><strong>CONNECT</strong></a></li>
-  <li align="center"><a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000005.png"><strong>LEARN</strong></a></li>
-  <li align="center"><a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000006.png"><strong>HELP</strong></a></li>
-  <li align="center"><a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000007.png"><strong>SERVICES</strong></a></li>
+  <li><a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000004.png"><strong>CONNECT</strong></a></li>
+  <li><a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000005.png"><strong>LEARN</strong></a></li>
+  <li><a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000006.png"><strong>HELP</strong></a></li>
+  <li"><a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000007.png"><strong>SERVICES</strong></a></li>
 </ul>
 
 
