@@ -37,7 +37,7 @@ Here is buttons that tested:
 If the p value is less than the significance level (0.05), reject the H0 hypothesis and it is concluded that there is a statistically significant difference between
 the means of the versions . If the p-value is greater than the significance level (0.05), it cannot reject the H0 hypothesis and it is concluded that there is no  statistically significant difference between the means of the versions.
 
-<strong><i>In this case, since making button changes does not make a statistically significant difference, the same button can be used, but optionally, the "SERVICES" button, which provides an increase in clicks, can be used. You can review the analysis results and <a href="https://github.com/boratutumluer/ab-test/blob/master/visualization/pie_charts.png">Pie-Charts</a> available in my codes.</i></strong>
+<strong><i>In this case, since making button changes does not make a statistically significant difference, the same button can be used, but optionally, the "SERVICES" button, which provides an increase in clicks, can be used. You can review the analysis results and <a href="https://raw.githubusercontent.com/boratutumluer/ab-test/master/visualization/pie_charts.png">Pie-Charts</a> available in my codes.</i></strong>
 
 
 </p>
