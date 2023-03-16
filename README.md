@@ -26,7 +26,7 @@ Here is button that tested:
 </ul>
 
 <h3>Hypothesis</h3>
-<ul style="style="list-style: none">
+<ul style="list-style: none">
           <li>H0: There is no statistically significant difference between the means of the versions.</li>
           <li>H1: There is a statistically significant difference between the means of the versions.</li>
 </ul>
