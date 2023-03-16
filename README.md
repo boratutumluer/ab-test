@@ -37,9 +37,6 @@ Here is buttons that tested:
 If the p value is less than the significance level (0.05), reject the H0 hypothesis and it is concluded that there is a statistically significant difference between
 the means of the versions . If the p-value is greater than the significance level (0.05), it cannot reject the H0 hypothesis and it is concluded that there is no  statistically significant difference between the means of the versions.
 
-  In this case yolu can review the analysis results available in my codes.
+In this case you can review the analysis results available in my codes.
 </p>
 
-</br>
-<p align="center">
-</p>
