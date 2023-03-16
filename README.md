@@ -19,10 +19,14 @@ University of Montana conducted an examination on the three main buttons on its 
 
 Here is button that tested: 
 <ul>
-  <li>CONNECT</li>
-  <li>LEARN</li>
-  <li>HELP</li>
-  <li>SERVICES</li>
+  <li><a href="#" onClick="newWindow = window.open('https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000004.png');
+    newWindow.print();"><strong>CONNECT</strong></a></li>
+  <li><a href="#" onClick="newWindow = window.open('https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000005.png');
+    newWindow.print();"><strong>LEARN</strong></a></li>
+  <li><a href="#" onClick="newWindow = window.open('https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000006.png');
+    newWindow.print();"><strong>HELP</strong></a></li>
+  <li><a href="#" onClick="newWindow = window.open('https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000007.png');
+    newWindow.print();"><strong>SERVICES</strong></a></li>
 </ul>
 
 <a href="#" onClick="newWindow = window.open('https://user-images.githubusercontent.com/79102317/225558156-02a393d8-1bca-48f1-a381-efa7c5b539d2.png');
