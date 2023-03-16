@@ -11,7 +11,7 @@
 AB Testing is a statistical analysis for comparing two groups that representing the main population each other to determine which one performs better. A group is representing the control group and B group is representing the test group. AB testing is used to understand bussiness problems such as group B is known to perform better, but whether this result occured by chance. For example does changing a button on a website affect sales? Is there statistically significant difference between the means of the two versions? Is it worth implementing this project in terms of time and effort?
 </p>
 <h3>Case Study</h3>
-University of Montana conducted an examination on the three main buttons on its homapage of website and found that the "Interact" button was clicked much less than the others ("Find", "Request"). Instead of this button, they tried 4 different versions and watched for one month and they want to do ab test for the analysis of the results.
+University of Montana conducted an examination on the three main buttons on its homapage of website and found that the "INTERACT" button was clicked much less than the others ("FIND", "REQUEST"). Instead of this button, they tried 4 different versions and watched for one month and they want to do ab test for the analysis of the results.
 </br>
 </br>
 <p align="center">
@@ -37,6 +37,6 @@ Here is buttons that tested:
 If the p value is less than the significance level (0.05), reject the H0 hypothesis and it is concluded that there is a statistically significant difference between
 the means of the versions . If the p-value is greater than the significance level (0.05), it cannot reject the H0 hypothesis and it is concluded that there is no  statistically significant difference between the means of the versions.
 
-In this case you can review the analysis results available in my codes.
+<strong><i>Since making button changes does not make a statistically significant difference, the same button can be used, but optionally, the "SERVICES" button, which provides an increase in clicks, can be used. You can review the analysis results available in my codes.</i></strong>
 </p>
 
