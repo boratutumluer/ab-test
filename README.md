@@ -31,8 +31,15 @@ Here is buttons that tested:
           <li>H0: There is no statistically significant difference between the means of the versions.</li>
           <li>H1: There is a statistically significant difference between the means of the versions.</li>
 </ul>
-  <p>
+
+<h3>Results</h3>
+<p>
+If the p value is less than the significance level (0.05), reject the H0 hypothesis and it is concluded that there is a statistically significant difference between
+the means of the versions . If the p-value is greater than the significance level (0.05), it cannot reject the H0 hypothesis and it is concluded that there is no  statistically significant difference between the means of the versions.
+
+  In this case yolu can review the analysis results available in my codes.
 </p>
+
 </br>
 <p align="center">
 </p>
