@@ -17,7 +17,7 @@ University of Montana conducted an examination on the three main buttons on its 
 <img src="https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000001.png" width="400"/>
 </p>
 
-Here is button that tested: 
+Here is buttons that tested: 
 <ul>
   <li><a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000004.png"><strong>CONNECT</strong></a></li>
   <li><a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000005.png"><strong>LEARN</strong></a></li>
