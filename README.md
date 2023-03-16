@@ -13,6 +13,7 @@ AB Testing is a statistical analysis for comparing two groups that representing 
 <h3>Case Study</h3>
 University of Montana conducted an examination on the three main buttons on its homapage of website and found that the "Interact" button was clicked much less than the others ("Find", "Request"). Instead of this button, they tried 4 different versions and watched for one month and they want to do ab test for the analysis of the results.
 </br>
+</br>
 <p align="center">
 <img src="https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000001.png" width="400"/>
 </p>
