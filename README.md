@@ -12,7 +12,7 @@ AB Testing is a statistical analysis for comparing two groups that representing 
 </p>
 <h3>Case Study</h3>
 University of Montana conducted an examination on the three main buttons on its homapage of website and found that the "Interact" button was clicked much less than the others. Instead of this button, they tried 4 different versions and watched for one month and they want to do ab test for the analysis of the results.
-
+</br>
 <p align="center">
 <img src="https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000001.png" width="400"/>
 </p>
@@ -32,6 +32,10 @@ Here is button that tested:
 <a href="#" onClick="newWindow = window.open('https://user-images.githubusercontent.com/79102317/225558156-02a393d8-1bca-48f1-a381-efa7c5b539d2.png');
     newWindow.print();">Print Image</a>
 
+
+<button type="submit">
+        <img src="https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000007.png" alt="buttonpng" border="0" />
+      </button>
 <p>
 </p>
 <h3>?</h3>
