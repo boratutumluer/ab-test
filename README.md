@@ -25,7 +25,7 @@ Here is button that tested:
     newWindow.print();"><strong>LEARN</strong></a></li>
   <li><a href="#" onClick="newWindow = window.open('https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000006.png');
     newWindow.print();"><strong>HELP</strong></a></li>
-  <li><a href="#" onClick="newWindow = window.open('https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000007.png');
+  <li><a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000007.png" onClick="newWindow = window.open('https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000007.png');
     newWindow.print();"><strong>SERVICES</strong></a></li>
 </ul>
 
