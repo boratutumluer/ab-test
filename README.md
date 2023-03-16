@@ -22,13 +22,12 @@ Here is button that tested:
   <li><a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000004.png"><strong>CONNECT</strong></a></li>
   <li><a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000005.png"><strong>LEARN</strong></a></li>
   <li><a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000006.png"><strong>HELP</strong></a></li>
-  <li"><a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000007.png"><strong>SERVICES</strong></a></li>
+  <li><a href="https://quod.lib.umich.edu/w/weave/images/12535642.0001.101-00000007.png"><strong>SERVICES</strong></a></li>
 </ul>
 
-
-<p>
-</p>
-<h3>?</h3>
+<h3>Hypothesis</h3>
+        H0: There is no statistically significant difference between the means of the two versions.
+        H1: There is a statistically significant difference between the means of the two versions.
 <p>
 </p>
 </br>
